@@ -1,14 +1,14 @@
 class Translation(object):
     START_TEXT = """Hello,
-i am Telegram URL Upload Bot! Created by @shreevish
+i am Telegram URL Upload Bot! Created by @AnotherSnitchX64
 
 Please send me any direct download URL Link, i can upload to telegram as File/Video
 
  🚨 . . . Note : its support almost all direct Url's except torrent link & some links . . . 🚨
  
-🚨 PRON video🔞 Links gives you PERMANENT BAN 🚨
+🚨 PRON video 🔞 Links gives you PERMANENT BAN 🚨
 
-       ┈┈┈••💙✿❤️✿💚••┈┈┈
+       ┈┈┈•• 💙 ✿ ❤️ ✿ ••┈┈┈
        
 URL-UPLOADER bot created by @shreevish
 
@@ -31,7 +31,7 @@ URL-UPLOADER bot created by @shreevish
 
 ➼pLease send photo to save Thumblail before you press any Below Button
 
-👲Powered By: @All_Movie_Rockers."""
+👲Powered By: @egymovies."""
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos Follow the steps :-
 
 ➲For Custom Name
@@ -57,7 +57,7 @@ URL-UPLOADER bot created by @shreevish
     NO_VOID_FORMAT_FOUND = "Sorry, Your link doesnot cointain any video\n<b>YouTubeDL</b> said: {}\nFor More Contact @shreevish"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """⭕️<b>My Name : URL-UPLOADER</b>
-⭕️<b>Creater :</b> @shreevish
+⭕️<b>Creater :</b> @AnotherSnitchX64
 ⭕️<b>Language :</b> <code>Python3</code>
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 ⭕️<b>Source Code :</b> 👉 <a href='https://telegram.dog/All_Movie_rockers'>Click Here</a>"""
@@ -73,11 +73,11 @@ URL-UPLOADER bot created by @shreevish
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-Creator : @shreevish
+Creator : @AnotherSnitchX64
 --------
 Send /about to know current plan details
 
-Support Group : © @All_Movie_Rockers"""
+Support Group : © @egymovies"""
  
         
         
