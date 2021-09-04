@@ -24,7 +24,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 ## Credits, and Thanks to
 
-* [@Satyu](https://telegram.dog/AnotherSnitchX64)
+* [@0xSnitch](https://telegram.dog/AnotherSnitchX64)
 
 #### LICENSE
 - GPLv3
