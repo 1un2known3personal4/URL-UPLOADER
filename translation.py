@@ -19,7 +19,7 @@ URL-UPLOADER bot created by @AnotherSnitchX64
 ⚠️Note :- Join My Channel before paste the link"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "Contact @shreevish for Details"
+    UPGRADE_TEXT = "Contact @AnotherSnitchX64 for Details"
     FORMAT_SELECTION = """📭 𝗦𝗲𝗹𝗲𝗰𝘁 𝗔𝗻𝗱 𝗖𝗵𝗼𝘀𝗲 𝗬𝗼𝘂𝗿 𝗙𝗼𝗿𝗺𝗮𝘁👇
 
 🎞️ 𝗩𝗜𝗗𝗘𝗢 = Upload as Streamble.
