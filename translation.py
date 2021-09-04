@@ -10,7 +10,7 @@ Please send me any direct download URL Link, i can upload to telegram as File/Vi
 
        ┈┈┈•• 💙 ✿ ❤️ ✿ ••┈┈┈
        
-URL-UPLOADER bot created by @shreevish
+URL-UPLOADER bot created by @AnotherSnitchX64
 
 ➼/start = To Check whether the bot is alive or not
 ➼/help = To Know how to use me! 
