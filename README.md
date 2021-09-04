@@ -20,11 +20,11 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 ## Our Telegram Channel
 
-* [MY TG CHANNEL](https://telegram.dog/allmovierockers)
+* [MY TG CHANNEL](https://telegram.dog/egymovies)
 
 ## Credits, and Thanks to
 
-* [@Satyu](https://telegram.dog/shreevish)
+* [@Satyu](https://telegram.dog/AnotherSnitchX64)
 
 #### LICENSE
 - GPLv3
